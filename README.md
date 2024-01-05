@@ -1,4 +1,4 @@
-## Car Selling Website
+## Restaurant Website
 #### Using technologies in this project :
 * React
 * Tailwindcss
